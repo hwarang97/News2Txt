@@ -10,9 +10,9 @@ Convert News script to documnet in certain format.
 - black, flake8
 
 ## Requirements 
-1. Request webpage using request
-2. Parsing script from webpage using Beatiful Soup
-3. Save sciprt in centain format
+- [x] Request webpage using request
+- [ ] Parsing script from webpage using Beatiful Soup
+- [ ] Save sciprt in centain format
 
 ## How to install
 
