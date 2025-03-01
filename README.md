@@ -18,4 +18,5 @@ Convert News script to documnet in certain format.
 ## How to work
 
 ## Future work
+- Add interface usgin Tkinter
 - Save script in google document
