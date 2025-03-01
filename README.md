@@ -7,6 +7,7 @@ Convert News script to documnet in certain format.
 - Python
 - request
 - Beautiful Soup
+- black, flake8
 
 ## Requirements 
 1. Request webpage using request
