@@ -11,7 +11,7 @@ Convert News script to documnet in certain format.
 
 ## Requirements 
 - [x] Request webpage using request
-- [ ] Parsing script from webpage using Beatiful Soup
+- [x] Parsing script from webpage using Beatiful Soup
 - [ ] Save sciprt in centain format
 
 ## How to install
