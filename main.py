@@ -8,5 +8,7 @@ soup = BeautifulSoup(respond, "html.parser")
 title = soup.find(name="h2", id="title_area").getText()
 contents = soup.find(name="article").getText().replace('\n',' ')
 
+formated_script = f"title: {title}\n\ncontents:\n{contents}"
+
 with open("article.txt", mode="w") as file:
-    file.write(contents)
+    file.write(formated_script)
